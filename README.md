@@ -17,3 +17,7 @@ Graphic Design · Adobe Illustrator · Adobe Photoshop · UI & Visual Design
 **Voyage** — a full-stack travel planning platform that brings place discovery, itineraries, and collaborative trip planning together.
 
 [View on GitHub](https://github.com/siborasinani/voyage) · [Live Demo](https://voyage-puce-pi.vercel.app)
+
+### Connect
+
+[Email](mailto:siboraa22@gmail.com)
