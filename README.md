@@ -1,6 +1,6 @@
 # Hi, I'm Sibora
 
-I'm a Computer Science student interested in frontend development, graphic design, and creative technology.
+I'm a Computer Science graduate and 42 student interested in frontend development, graphic design, and creative technology.
 
 I enjoy building digital experiences that combine thoughtful functionality with clean, visual design.
 
